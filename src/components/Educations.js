@@ -53,7 +53,7 @@ const Educations = () => {
                 </li>
                 <li class="list">
                     <div class="img-div">
-                        <img class="img-of-edu" src="./images/dotnet.jpg" alt="react" />
+                        <img class="img-of-edu" src="./images/react.jpg" alt="react" />
                     </div>
                     <h2 class="name-of-edu">.Net Education</h2>
                     <p>.NET Framework, Microsoft tarafından geliştirilen, açık İnternet protokolleri ve standartları üzerine kurulmuş bir "uygulama" geliştirme platformu. Daha önce Sun Microsystems tarafından geliştirilmiş olan Java platformuna önemli benzerlikler göstermektedir. Buradaki uygulama kavramının kapsamı çok geniştir.</p>
@@ -75,7 +75,7 @@ const Educations = () => {
                 </li>
                 <li class="list">
                     <div class="img-div">
-                        <img class="img-of-edu" src="./images/csharp.png" alt="react" />
+                        <img class="img-of-edu" src="./images/react.jpg" alt="react" />
                     </div>
                     <h2 class="name-of-edu">C# Education</h2>
                     <p>C#; Microsoft tarafından .NET Teknolojisi için geliştirilen modern bir programlama dilidir. Sözdizimi C-like bir deneyim sunar. Microsoft tarafından geliştirilmiş olsa da ECMA ve ISO standartları altına alınmıştır. C programlama dilinde bir tam sayı değişkeni 1 artırmak için değişkenden sonra "++" eki kullanılır.</p>
@@ -97,7 +97,7 @@ const Educations = () => {
                 </li>
                 <li class="list">
                     <div class="img-div">
-                        <img class="img-of-edu" src="./images/javascript.png" alt="react" />
+                        <img class="img-of-edu" src="./images/react.jpg" alt="react" />
                     </div>
                     <h2 class="name-of-edu">JavaScript Education</h2>
                     <p>JavaScript, HTML ve CSS ile birlikte World Wide Web'in temel teknolojilerinden biri olan programlama dilidir. Web sitelerinin %97'sinden fazlası, web sayfası hareketleri için istemci tarafında JavaScript kullanırlar ve kullanılan kodlar genellikle üçüncü taraf kitaplıkları içerir.</p>
@@ -119,7 +119,7 @@ const Educations = () => {
                 </li>
                 <li class="list">
                     <div class="img-div">
-                        <img class="img-of-edu" src="./images/typescript.png" alt="react" />
+                        <img class="img-of-edu" src="./images/react.jpg" alt="react" />
                     </div>
                     <h2 class="name-of-edu">TypeScript Education</h2>
                     <p>TypeScript özgür ve açık kaynak kodlu programlama dili. Microsoft tarafından geliştirilmekte ve desteklenmekte olan TypeScript; bünyesinde barındırdığı derleyici sayesinde, yazılan kodu JavaScript koduna çevirir. TypeScript gerek istemci taraflı, gerekse sunucu taraflı yazılım geliştirmede kullanılabilmektedir.</p>
@@ -141,7 +141,7 @@ const Educations = () => {
                 </li>
                 <li class="list">
                     <div class="img-div">
-                        <img class="img-of-edu" src="./images/vue.jpg" alt="react" />
+                        <img class="img-of-edu" src="./images/react.jpg" alt="react" />
                     </div>
                     <h2 class="name-of-edu">Vue Education</h2>
                     <p>
